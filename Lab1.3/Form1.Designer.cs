@@ -59,7 +59,7 @@ namespace Lab1._2
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        protected System.Windows.Forms.Button button1;
     }
 }
 

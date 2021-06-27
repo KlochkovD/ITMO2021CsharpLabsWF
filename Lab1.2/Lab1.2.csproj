@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9B79526C-166A-41D1-A859-794CC11DEF45}</ProjectGuid>
+    <ProjectGuid>{2AE21E86-81F8-4786-BA0D-54406D549497}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ITMO2021CsharpLabsWF</RootNamespace>
-    <AssemblyName>ITMO2021CsharpLabsWF</AssemblyName>
+    <RootNamespace>Lab1._2</RootNamespace>
+    <AssemblyName>Lab1.2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

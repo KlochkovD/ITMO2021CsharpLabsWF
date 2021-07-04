@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3.1(WinTimer1)", "Lab3.1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3.2(WinTimer2)", "Lab3.2(WinTimer2)\Lab3.2(WinTimer2).csproj", "{17327873-9EDB-49AD-9612-6B22580153DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3.3(WinButNum)", "Lab3.3(WinButNum)\Lab3.3(WinButNum).csproj", "{D44D4A4B-CCAB-4F3C-BC37-78BF9C6054EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{17327873-9EDB-49AD-9612-6B22580153DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17327873-9EDB-49AD-9612-6B22580153DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17327873-9EDB-49AD-9612-6B22580153DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44D4A4B-CCAB-4F3C-BC37-78BF9C6054EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44D4A4B-CCAB-4F3C-BC37-78BF9C6054EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44D4A4B-CCAB-4F3C-BC37-78BF9C6054EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44D4A4B-CCAB-4F3C-BC37-78BF9C6054EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

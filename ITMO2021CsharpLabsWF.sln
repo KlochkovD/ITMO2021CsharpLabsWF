@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3.2(WinTimer2)", "Lab3.2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3.3(WinButNum)", "Lab3.3(WinButNum)\Lab3.3(WinButNum).csproj", "{D44D4A4B-CCAB-4F3C-BC37-78BF9C6054EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7.1(WinBackgroundWorker)", "Lab7.1(WinBackgroundWorker)\Lab7.1(WinBackgroundWorker).csproj", "{9756E0AC-74A1-4161-81DE-75F049C121FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{D44D4A4B-CCAB-4F3C-BC37-78BF9C6054EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D44D4A4B-CCAB-4F3C-BC37-78BF9C6054EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D44D4A4B-CCAB-4F3C-BC37-78BF9C6054EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9756E0AC-74A1-4161-81DE-75F049C121FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9756E0AC-74A1-4161-81DE-75F049C121FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9756E0AC-74A1-4161-81DE-75F049C121FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9756E0AC-74A1-4161-81DE-75F049C121FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
